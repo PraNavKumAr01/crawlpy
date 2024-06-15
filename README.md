@@ -1,6 +1,6 @@
-# PyScrapy
+# CrawlPy
 
-PyScrapy is a Python package for web scraping and YouTube video scraping.
+CrawlPy is a Python package for web scraping and YouTube video scraping.
 
 ## Features
 
@@ -11,7 +11,7 @@ PyScrapy is a Python package for web scraping and YouTube video scraping.
 
 ## Installation
 
-You can install PyScrapy using pip:
+You can install Crawlpy using pip:
 
 ```bash
-pip install pyscrapy
+pip install crawlpy
