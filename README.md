@@ -17,8 +17,8 @@ You can install CrawlPY using pip:
 pip install crawlpy
 ```
 
-# Web Scraper
-## Initializing the WebScraper
+## Web Scraper
+### Initializing the WebScraper
 
 ## To start using the `WebScraper`, you need to create an instance of it. You can customize headers, timeout, retries, and other settings.
 
